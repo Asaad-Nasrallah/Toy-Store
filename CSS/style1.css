@@ -1,0 +1,21 @@
+.bg-1{
+    background-color: #A5C926;
+}
+.bg-2{
+    background-color: #FB416B;
+}
+.show-case{
+    background-image: url('../Images/img1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.story{
+background-image: linear-gradient(rgba(128, 128, 128, 0.242),rgba(0, 0, 0, 0.27)),url("../Images/story.jpg");
+height: 50vh;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
